@@ -1,0 +1,11 @@
+{
+    "Lua.diagnostics.globals": [
+        "vim",
+        "path",
+        "indicator",
+        "local"
+    ],
+    "Lua.diagnostics.disable": [
+        "different-requires"
+    ]
+}
